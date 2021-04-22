@@ -1,6 +1,6 @@
 
 #My Name is Lift
 Address : Roi-Et
-Job : Programer
+Job : Programmer
 
 # AboutMe
